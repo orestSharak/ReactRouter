@@ -1,6 +1,6 @@
+
+[  
 {
-  "news":[
-  {
     "name": "React Router",
     "id": "react-router",
     "description": "Declarative, component based routing for React"
@@ -26,4 +26,4 @@
     "description": "In computer science, functional programming is a programming paradigm—a style of building"
   }
 ]
-}
+
