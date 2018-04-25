@@ -1,4 +1,5 @@
-[
+{
+  "news":[
   {
     "name": "React Router",
     "id": "react-router",
@@ -25,3 +26,4 @@
     "description": "In computer science, functional programming is a programming paradigm—a style of building"
   }
 ]
+}
